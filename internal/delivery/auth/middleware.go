@@ -1,10 +1,10 @@
 package auth
 
 import (
-	"bemyfaktur/internal/model"
-	"bemyfaktur/internal/model/constant"
-	"bemyfaktur/internal/usecase/auth"
 	"context"
+	"goVanila/internal/model"
+	"goVanila/internal/model/constant"
+	"goVanila/internal/usecase/auth"
 	"net/http"
 
 	"github.com/labstack/echo/v4"

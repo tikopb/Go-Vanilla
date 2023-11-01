@@ -1,7 +1,7 @@
 package database
 
 import (
-	"bemyfaktur/internal/model"
+	"goVanila/internal/model"
 
 	"gorm.io/gorm"
 )

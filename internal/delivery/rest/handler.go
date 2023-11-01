@@ -1,14 +1,14 @@
 package rest
 
 import (
-	"bemyfaktur/internal/usecase/auth"
+	"goVanila/internal/usecase/auth"
 	"net/http"
 
 	"strconv"
 
-	midUtil "bemyfaktur/internal/delivery/auth"
+	midUtil "goVanila/internal/delivery/auth"
 
-	pgUtil "bemyfaktur/internal/model/paginationUtil"
+	pgUtil "goVanila/internal/model/paginationUtil"
 
 	"github.com/labstack/echo/v4"
 	"github.com/sirupsen/logrus"

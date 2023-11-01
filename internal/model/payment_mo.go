@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	"bemyfaktur/internal/model/constant"
+	"goVanila/internal/model/constant"
 )
 
 type Payment struct {

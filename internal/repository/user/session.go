@@ -1,9 +1,9 @@
 package user
 
 import (
-	"bemyfaktur/internal/model"
 	"errors"
 	"fmt"
+	"goVanila/internal/model"
 	"time"
 
 	"github.com/golang-jwt/jwt"

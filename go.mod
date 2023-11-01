@@ -1,4 +1,4 @@
-module bemyfaktur
+module goVanila
 
 go 1.20
 

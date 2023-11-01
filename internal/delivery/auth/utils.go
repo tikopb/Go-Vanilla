@@ -1,8 +1,8 @@
 package auth
 
 import (
-	"bemyfaktur/internal/model"
 	"errors"
+	"goVanila/internal/model"
 	"net/http"
 	"strings"
 )

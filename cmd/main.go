@@ -1,12 +1,12 @@
 package main
 
 import (
-	"bemyfaktur/internal/database"
+	"goVanila/internal/database"
 
-	"bemyfaktur/internal/delivery/logger"
-	"bemyfaktur/internal/delivery/rest"
+	"goVanila/internal/delivery/logger"
+	"goVanila/internal/delivery/rest"
 
-	"bemyfaktur/internal/usecase"
+	"goVanila/internal/usecase"
 
 	"github.com/labstack/echo/v4"
 )

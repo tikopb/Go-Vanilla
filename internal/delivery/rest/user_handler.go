@@ -1,9 +1,9 @@
 package rest
 
 import (
-	"bemyfaktur/internal/model"
 	"encoding/json"
 	"errors"
+	"goVanila/internal/model"
 	"net/http"
 
 	"github.com/labstack/echo/v4"

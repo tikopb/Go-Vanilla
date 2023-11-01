@@ -1,11 +1,11 @@
 package user
 
 import (
-	"bemyfaktur/internal/model"
 	"crypto/aes"
 	"crypto/cipher"
 	"crypto/rsa"
 	"errors"
+	"goVanila/internal/model"
 	"time"
 
 	"gorm.io/gorm"

@@ -2,14 +2,14 @@
 package usecase
 
 import (
-	documentutil "bemyfaktur/internal/model/documentUtil"
-	pgUtil "bemyfaktur/internal/model/paginationUtil"
+	documentutil "goVanila/internal/model/documentUtil"
+	pgUtil "goVanila/internal/model/paginationUtil"
 	"time"
 
-	userRepo "bemyfaktur/internal/repository/user"
-	authUsecase "bemyfaktur/internal/usecase/auth"
+	userRepo "goVanila/internal/repository/user"
+	authUsecase "goVanila/internal/usecase/auth"
 
-	midUtil "bemyfaktur/internal/delivery/auth"
+	midUtil "goVanila/internal/delivery/auth"
 
 	"crypto/rand"
 	"crypto/rsa"

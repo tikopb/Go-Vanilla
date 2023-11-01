@@ -1,8 +1,8 @@
 package documentutil
 
 import (
-	"bemyfaktur/internal/model"
 	"fmt"
+	"goVanila/internal/model"
 	"strings"
 	"time"
 

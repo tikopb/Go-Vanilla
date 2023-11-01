@@ -1,6 +1,6 @@
 package user
 
-import "bemyfaktur/internal/model"
+import "goVanila/internal/model"
 
 type Repository interface {
 	RegisterUser(userData model.User) (model.User, error)

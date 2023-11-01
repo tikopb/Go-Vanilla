@@ -1,8 +1,8 @@
 package auth
 
 import (
-	"bemyfaktur/internal/model"
-	"bemyfaktur/internal/repository/user"
+	"goVanila/internal/model"
+	"goVanila/internal/repository/user"
 	"strings"
 
 	"errors"

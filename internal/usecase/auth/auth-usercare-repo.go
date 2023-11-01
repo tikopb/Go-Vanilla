@@ -1,6 +1,6 @@
 package auth
 
-import "bemyfaktur/internal/model"
+import "goVanila/internal/model"
 
 type Usecase interface {
 	RegisterUser(request model.RegisterRequest) (model.User, error)
